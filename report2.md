@@ -61,7 +61,7 @@
     
     测试老师获得课时签到结果，向对应url发送请求结果如下：
     
-    ![1574065290546](./1574065290546.png)
+    ![1574065290546](https://github.com/Tifinity/MyImage/raw/master/GoOnlineReport/1574065290546.png)
 
 ### 其他内容
 

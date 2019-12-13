@@ -199,13 +199,13 @@ def send_code(self, courseID, classID):
 
 左边为接口测试列表，中间是“老师获取课程详情”的测试，下方是返回JSON数据。
 
-![image-20191212115647953](image-20191212115647953.png)
+![image-20191212115647953](https://github.com/Tifinity/MyImage/raw/master/GoOnlineReport/image-20191212115647953.png)
 
 Websocket的接口使用Postwoman测试：
 
 可以看到在Postwoman的网页上不断收到签到码和签到列表。
 
-![image-20191212120035453](image-20191212120035453.png)
+![image-20191212120035453](https://github.com/Tifinity/MyImage/raw/master/GoOnlineReport/image-20191212120035453.png)
 
 ### JWT
 
@@ -223,7 +223,7 @@ GoOnline使用JWT进行身份验证，判断当前是否登陆，用户是老师
 
 使用Navicat Premium 12进行数据库的可视化操作，从而测试自己写的函数，非常方便。
 
-![image-20191212115312582](image-20191212115312582.png)
+![image-20191212115312582](https://github.com/Tifinity/MyImage/raw/master/GoOnlineReport/image-20191212115312582.png)
 
 ### Docker
 

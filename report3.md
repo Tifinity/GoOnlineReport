@@ -96,17 +96,11 @@ def test_websocket(request):
 
 启动服务端。
 
-![1574655485574](C:\Users\TIFINITY\AppData\Roaming\Typora\typora-user-images\1574655485574.png)
-
 再找一个在线测试websocket的网站，连接测试即可，这个例子是客户端发送什么消息服务端回什么消息。
-
-![1574655611445](C:\Users\TIFINITY\AppData\Roaming\Typora\typora-user-images\1574655611445.png)
 
 简单实现返回签到码：
 
-![1574656611885](C:\Users\TIFINITY\AppData\Roaming\Typora\typora-user-images\1574656611885.png)
-
-
+(图片找不到啦，想象一下八xixi)
 
 #### 完成了其他api
 

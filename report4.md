@@ -14,11 +14,11 @@
 
 基本把网上的dwebsocket的博客都看了，也有人说了同样的问题，但是解决方法一个比一个不对，最后在dwebsocket的github上看到了这句话，找到了dwebsocket依赖于这个地址：
 
-![1575274641167](T:\TH\Go-Online\1575274641167.png)
+![1575274641167](https://github.com/Tifinity/MyImage/raw/master/GoOnlineReport/1575274641167.png)
 
 然后，作者弃用了，只能怪自己图快用了dwebsocket，上一周就当交学费了。
 
-![1575274653206](T:\TH\Go-Online\1575274653206.png)
+![1575274653206](https://github.com/Tifinity/MyImage/raw/master/GoOnlineReport/1575274653206.png)
 
 没办法只能乖乖使用channels。
 
@@ -95,7 +95,7 @@ def send_code(self, courseID, classID):
 
 	镜像与容器就像程序与进程，跟着阮一峰的教程做了wordpress，对docker有了一个初步的认识。
 
-![image-20191202173258746](T:\TH\Go-Online\image-20191202173258746.png)
+![image-20191202173258746](https://github.com/Tifinity/MyImage/raw/master/GoOnlineReport/image-20191202173258746.png)
 
 
 
